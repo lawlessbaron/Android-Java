@@ -2,8 +2,10 @@ Android/Java
 ============
 
 ####Contents
-Documentation
-Introduction
+["Documentation"](https://github.com/lawlessbaron/Android-Java/blob/master/README.md#documentation)
+
+[Introduction](#introduction)
+
 
 
 
